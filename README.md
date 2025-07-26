@@ -1,7 +1,8 @@
-🤖 SigmaGPT
+#🤖 SigmaGPT
+
 SigmaGPT is an intelligent AI-powered chatbot platform built with Node.js, Express, and the OpenAI Chat API (gpt-4o-mini). It is designed to provide seamless and interactive user conversations through a simple API, which can be integrated into any frontend like React, Vue, or mobile apps.
 
-✨ Features
+#✨ Features
 💬 AI Chatbot: Generate human-like responses using OpenAI’s GPT-4o-mini.
 
 🌐 REST API: Simple and scalable Express API.
@@ -12,7 +13,7 @@ SigmaGPT is an intelligent AI-powered chatbot platform built with Node.js, Expre
 
 ⚙️ Modular Codebase: Easy to extend or plug into a larger app.
 
-🛠 Tech Stack
+#🛠 Tech Stack
 Backend: Node.js + Express.js
 
 AI Model: OpenAI Chat API (gpt-4o-mini)
@@ -31,7 +32,7 @@ node-fetch — API calling
 
 express — core framework
 
-🚀 Installation
+#🚀 Installation
 1. Clone the Repository
 bash
 Copy
@@ -59,7 +60,7 @@ npm start
 By default, the backend runs on:
 http://localhost:8080
 
-📡 API Endpoint
+#📡 API Endpoint
 POST /api/chat
 Request Body:
 
@@ -82,7 +83,7 @@ Embed in a study-assistant or productivity app
 
 Add to an admin dashboard for smart AI help
 
-🤝 Contributing
+#🤝 Contributing
 We welcome contributions!
 
 Fork the repo
